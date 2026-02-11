@@ -4,7 +4,7 @@
                 <div class="footer-brand">
                     <div class="logo">
                         <span class="logo-icon">◈</span>
-                        <span class="logo-text">FlowSync</span>
+                        <span class="logo-text" style="color: var(--color-primary);">FlowSync</span>
                     </div>
                     <p class="footer-tagline">Streamline your workflow, amplify your productivity.</p>
                 </div>
@@ -45,7 +45,7 @@
             </div>
 
             <div class="footer-bottom">
-                <p>&copy; 2024 FlowSync. All rights reserved.</p>
+                <p>&copy; 2026 FlowSync. All rights reserved.</p>
                 <div class="social-links">
                     <a href="#" aria-label="Twitter">𝕏</a>
                     <a href="#" aria-label="LinkedIn">in</a>
